@@ -10,6 +10,7 @@ wxpy: 用 Python 玩微信
 * wxpy6.同5
 * wxpy7.群聊 机器人回复
 * wxpy8.多个群聊机器人回复
+* sayLoveYouEveryday.py 每天给女朋友发一段情话
 
 微信机器人 / 可能是最优雅的微信个人号 API
     wxpy 在 itchat 的基础上，通过大量接口优化提升了模块的易用性，并进行丰富的功能扩展
